@@ -1,0 +1,26 @@
+<contatos>
+	<contato>
+		<nome>José Santos</nome>
+		<email>jose@email.com</email>
+	</contato>
+	<contato>
+		<nome>Renata Pereira</nome>
+		<email>renata@email.com</email>
+	</contato>
+	<contato>
+		<nome>Mauricio Ricardo</nome>
+		<email>mauricio@email.com</email>
+	</contato>
+	<contato>
+		<nome>Sara Silva</nome>
+		<email>sara@email.com</email>
+	</contato>
+	<contato>
+		<nome>Roberto Costa</nome>
+		<email>roberto@email.com</email>
+	</contato>
+	<contato>
+		<nome>Julio Rodrigues</nome>
+		<email>julio@email.com</email>
+	</contato>
+</contatos>
